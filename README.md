@@ -12,7 +12,7 @@ This project is a quiz application developed using React. Users answer questions
 
 - **React**: Used to build the user interface.
 - **useReducer**: Used for state management within the application.
-- 
+  
 ## Live Demo
 
 You can view the live version of the application [here](https://the-react-quiz.netlify.app/) 
